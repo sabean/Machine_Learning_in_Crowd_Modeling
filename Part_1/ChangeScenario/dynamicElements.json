@@ -1,0 +1,36 @@
+{
+"source" : null,
+"targetIds" : [ ],
+"position" : {
+    "x" : 0.0,
+    "y" : 0.0
+},
+"nextTargetListIndex" : 0,
+"freeFlowSpeed" : 1.1821257468417046,
+"attributes" : {
+    "id" : -1,
+    "radius" : 0.2,
+    "densityDependentSpeed" : false,
+    "speedDistributionMean" : 1.34,
+    "speedDistributionStandardDeviation" : 0.26,
+    "minimumSpeed" : 0.5,
+    "maximumSpeed" : 2.2,
+    "acceleration" : 2.0,
+    "footStepsToStore" : 4,
+    "searchRadius" : 1.0,
+    "angleCalculationType" : "USE_CENTER",
+    "targetOrientationAngleThreshold" : 45.0
+},
+"idAsTarget" : -1,
+"isChild" : false,
+"isLikelyInjured" : false,
+"mostImportantEvent" : null,
+"salientBehavior" : "TARGET_ORIENTED",
+"groupIds" : [ ],
+"trajectory" : {
+    "footSteps" : [ ]
+},
+"groupSizes" : [ ],
+"modelPedestrianMap" : { },
+"type" : "PEDESTRIAN"
+}

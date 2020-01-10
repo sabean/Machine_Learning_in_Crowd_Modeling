@@ -1,0 +1,5 @@
+length: 50
+width: 50
+target: (25,25)
+pedestrians: [(5, 25)]
+obstacles: []
